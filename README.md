@@ -3,7 +3,7 @@
 
 A step-by-step guide for analyzing political discourse using Python. This tutorial explores how sentiment analysis, word mapping, and information bubbles reveal insights into political behavior on platforms like Reddit.
 
-![Word Cloud Example](https://via.placeholder.com/800x400.png?text=Insert+Cool+Word+Cloud+Here)
+![Word Cloud Example](wordcloud.png)
 
 ## Features
 - 🧠 **Sentiment Analysis**: Decipher emotional tones in political discussions.
